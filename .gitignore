@@ -1,0 +1,5 @@
+client/*.class
+client/*.jar
+
+server/*.class
+server/*.jar
